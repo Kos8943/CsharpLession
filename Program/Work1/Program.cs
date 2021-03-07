@@ -42,7 +42,7 @@ namespace Work1
             
             //讀取TXT檔
             string readFile = File.ReadAllText(path + file);
-            Console.WriteLine(readFile);
+            Console.WriteLine(readFile + "5151515");
             
             Console.ReadLine();
 
